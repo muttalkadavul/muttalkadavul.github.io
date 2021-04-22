@@ -2,12 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://muttalkadavul.github.io/about/</loc>
+    <lastmod>2020-09-17T17:02:00+05:30</lastmod>
+  </url><url>
+    <loc>https://muttalkadavul.github.io/posts/</loc>
+    <lastmod>2020-07-30T17:30:00+05:30</lastmod>
+  </url><url>
+    <loc>https://muttalkadavul.github.io/posts/i-and-my-life/udalum_naanum/</loc>
+    <lastmod>2020-07-30T17:30:00+05:30</lastmod>
+  </url><url>
+    <loc>https://muttalkadavul.github.io/</loc>
+    <lastmod>2020-07-30T17:30:00+05:30</lastmod>
+  </url><url>
+    <loc>https://muttalkadavul.github.io/posts/i-and-my-life/kadavulum_naanum/</loc>
+    <lastmod>2020-07-29T17:30:00+05:30</lastmod>
+  </url><url>
     <loc>https://muttalkadavul.github.io/blog/</loc>
   </url><url>
     <loc>https://muttalkadavul.github.io/series/</loc>
   </url><url>
     <loc>https://muttalkadavul.github.io/tags/</loc>
-  </url><url>
-    <loc>https://muttalkadavul.github.io/</loc>
   </url>
 </urlset>
